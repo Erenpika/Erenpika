@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Erenpika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate o
+- 👀 I’m interested in le developp de bot discord
+- 🌱 I’m currently learning le developpement de bot discord
 
 <!---ffff
